@@ -21,24 +21,31 @@
 ```bash
 cd dev-notes
 code .
+```
 
 2️⃣ Crear el archivo de la clase:
 
 Ejemplo:
+
+```bash
 linux/clases/2026-03-15.md
+```
 
 3️⃣ Escribir los apuntes:
 
 Dentro del archivo agrego:
-conceptos vistos en clase
-comandos
-ejemplos
-notas importantes
+
+- conceptos vistos en clase  
+- comandos  
+- ejemplos  
+- notas importantes  
 
 4️⃣ Guardar y hacer commit:
 
+```bash
 git add .
 git commit -m "Clase Linux: comandos básicos"
 git push
+```
 
 <sub>Actualizado clase a clase — trabajo en progreso permanente.</sub>
