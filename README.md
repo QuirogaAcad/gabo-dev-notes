@@ -34,11 +34,12 @@ linux/clases/2026-03-15.md
 3️⃣ Escribir los apuntes:
 
 Dentro del archivo agrego:
-
+```bash
 - conceptos vistos en clase  
 - comandos  
 - ejemplos  
 - notas importantes  
+```
 
 4️⃣ Guardar y hacer commit:
 
