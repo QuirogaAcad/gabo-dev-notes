@@ -1,0 +1,147 @@
+# 📅 Clase — 2026-03-11
+
+**Materia:** Fundamentos STEM / Robótica  
+**Profesor:** Germán Bassi
+
+---
+
+## 🧰 Herramientas Utilizadas
+
+### Tinkercad
+
+Plataforma online para simulación de circuitos y programación de placas electrónicas.
+
+**Google Classroom:**
+
+Donde se dictaran las clases de forma virtual
+
+---
+
+## 🤖 Placas Programables
+
+Dispositivos electrónicos que pueden ejecutar programas para controlar componentes físicos.
+
+### Arduino
+
+Plataforma de hardware y software libre utilizada para:
+
+- Proyectos electrónicos
+- Automatización
+- Robótica
+- Aprendizaje de programación
+
+Permite controlar sensores y actuadores mediante código.
+
+### Micro:bit
+
+Placa educativa diseñada para enseñar programación y electrónica. Se utiliza en educación STEM para:
+
+- Proyectos interactivos
+- Aprendizaje de programación
+- Internet de las Cosas (IoT)
+
+---
+
+## 🧩 Componentes Externos (Módulos)
+
+Los módulos permiten ampliar las capacidades de las placas programables.
+
+### Sensores
+Detectan información del entorno.
+
+Ejemplos: temperatura, luz, movimiento, distancia
+
+### Actuadores
+Realizan una acción física.
+
+Ejemplos: motores, LEDs, relés, servomotores
+
+### Elementos de Control
+Controlan o modifican el comportamiento del circuito.
+
+Ejemplos: botones, potenciómetros, interruptores
+
+### Alimentación y Protección
+Suministran energía y protegen los circuitos.
+
+Ejemplos: baterías, resistencias, reguladores de voltaje
+
+---
+
+## 🌐 IoT — Internet of Things
+
+Consiste en conectar dispositivos físicos a internet para enviar datos, recibir información y automatizar procesos.
+
+Ejemplos: casas inteligentes, sensores ambientales, dispositivos conectados.
+
+---
+
+## 🧪 Proyecto Final
+
+Durante el curso se realizará un proyecto final aplicando programación, electrónica, sensores y actuadores.
+
+---
+
+## ⚡ Electricidad Básica
+
+### Ley de Ohm
+
+Describe la relación entre Voltaje, Corriente y Resistencia.
+
+| Símbolo | Magnitud | Fórmula |
+|---------|----------|---------|
+| **V** | Voltaje | `V = I × R` |
+| **I** | Corriente | `I = V / R` |
+| **R** | Resistencia | `R = V / I` |
+
+---
+
+## 🔌 Circuitos Eléctricos
+
+### Circuito en Serie
+
+Los componentes están conectados uno después del otro.
+
+```
+Batería ── R1 ── R2 ──
+```
+
+**Resistencia total:**
+```
+RT = R1 + R2
+```
+
+- La **corriente es la misma** en todos los componentes
+- El **voltaje se reparte** entre las resistencias
+
+---
+
+### Circuito en Paralelo
+
+Los componentes se conectan en ramas separadas.
+
+```
+         ├─ R1 ─┤
+Batería  ├─ R2 ─┤
+```
+
+- El **voltaje es el mismo** en cada rama
+- La **corriente se divide** entre los caminos
+
+---
+
+## 📝 Resumen de la Clase
+
+- Se introdujeron conceptos básicos de robótica y electrónica.
+- Se revisaron las placas **Arduino** y **Micro:bit**.
+- Se explicaron los tipos de componentes electrónicos.
+- Se repasó la **Ley de Ohm** y los tipos de circuitos eléctricos.
+
+---
+
+## 🔎 Conceptos para Investigar
+
+- [ ] Programación básica en Arduino
+- [ ] Sensores más comunes en robótica
+- [ ] Diferencias entre Arduino y Micro:bit
+- [ ] Aplicaciones reales de IoT
