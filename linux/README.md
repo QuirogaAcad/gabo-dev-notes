@@ -1,4 +1,4 @@
-```markdown
+
 # Linux
 
 Notas y apuntes de Linux. Comandos básicos y administración del sistema.
@@ -11,4 +11,3 @@ Notas y apuntes de Linux. Comandos básicos y administración del sistema.
 - [Linux man pages](https://man7.org/linux/man-pages/) - Manual de comandos
 - [Ubuntu Help](https://help.ubuntu.com/) - Documentación Ubuntu
 - [GNU Coreutils](https://www.gnu.org/software/coreutils/manual/) - Utilidades básicas
-```
