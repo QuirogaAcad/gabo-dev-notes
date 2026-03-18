@@ -1,8 +1,7 @@
 # 📚 Gabo-dev-notes
 
 - Este repositorio funciona como mi **cuaderno digital de clases**
-- Cada commit es un día de clase. 
-- Cada archivo es lo que aprendí ese día :)
+- Cada commit es un día de clase.
 
 ## Materias
 
